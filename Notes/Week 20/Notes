@@ -1,0 +1,15 @@
+Map:
+  Creates new array
+  Iterates through it
+  Runs a callback for each value in the array
+  Adds result of callback to new array
+  Returns new array
+
+  Useful to extract things from an object
+
+Filter:
+  Creates new array
+  Iterates through it
+  Runs a callback for each value in the array
+  If callback returns true, value will be added to array
+  If callback returns false, value is ignored

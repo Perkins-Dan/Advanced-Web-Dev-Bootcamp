@@ -1,0 +1,18 @@
+A promise:
+ An object that represents a task that will be completed in the future
+
+AJAX:
+  Sending and Requesting in the background without disturbing the current page
+
+XML and JSON:
+  More simplified HTML
+  JSON is a JS variant
+  Allows you to see the structure of the code
+
+Requests with JS:
+  XMLHTTP
+  Fetch API
+  3rd Party libraries: jQuery and Axios
+
+Using APIS
+

@@ -1,0 +1,18 @@
+some:
+  iterates through an array
+  runs a callback for each value in it
+  if it returns true for atleast one value it returns true
+  else it returns false
+
+every:
+  iterates through an array
+  runs a callback for each value in it
+  if it returns true for every single value it returns true
+  else it returns false
+
+reduce:
+  Accepts a callback and an optional second parameter
+  Iterates through an array
+  Runs a callback on each value
+  The first parameter to callback is either the first value in the array or the second parameter
+  The returned value from the callback becomes the new value of accumulator

@@ -1,0 +1,11 @@
+flex-grow:
+  Based on ratios
+  Items sharing the container based on their proportion
+
+flex-shrink:
+  Roughly shrink items by proportion
+
+Code along: Polygon.com Widget
+
+Holy Grail Layout Exercise
+

@@ -1,0 +1,17 @@
+Shorthand Transitions:
+  transition: <property> <duration> <timing-function> <delay>;
+
+Performance:
+  Most performance friendly for large sites - translate, scale, rotate & opacity
+
+Animated Gallery (Final Project Of CSS Animations)
+  Spent time playing around with the code and timings
+
+
+NEW SECTION KEYFRAME ANIMATIONS
+
+Intro:
+  - Multi-state instead of just A to B
+  - How to specify the states with properties at %
+  - Examples of real uses and crazy art
+  

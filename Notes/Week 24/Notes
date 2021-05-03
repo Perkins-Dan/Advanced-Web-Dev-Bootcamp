@@ -1,0 +1,10 @@
+Object Orientated Programming with JS
+
+The New Keyword:
+  Creates an empty object
+  Sets the keyword this to be that empty object
+  It adds the line 'return this' to the end of the function
+  Adds a property onto the empty object called "__proto__", which links the prototype property on the constructor function to the empty object
+
+Prototypes & Prototype Chains
+

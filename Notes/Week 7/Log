@@ -1,0 +1,17 @@
+Starts with Flexbox quiz - 1/1 correct
+
+justify-content:
+  - flex-end (pushes everything to the end)
+  - center (pushes everything to the middle)
+  - space-between (spaces evenly between the different elements)
+  - space-around (spaces evenly around the different elements)
+
+Sidebar exercise - Completed (Took some time to experiment)
+
+align-items:
+  - flex-start (top of the parent cross-axis)
+  - flex-end (bottom of parent cross-axis)
+  - center (middle of parent cross-axis)
+  - stretch (takes up entire of parent height cross-axis)
+  - baseline (items are aligned along their baselines)
+

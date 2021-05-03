@@ -1,0 +1,24 @@
+Loaders:
+  - Looking at all the different types of loading icons
+  - Completed own loader and played around with different attributes for a while
+
+NEW SECTION ADVANCED CSS (Flexbox)
+
+Intro:
+  - Container Properties vs Flex Item Properties
+  - Terminology: Cross-axis & Main-axis, etc
+
+flex-direction:
+  - row (horizontal elements)
+  - row-reverse (reversed horizontal elements)
+  - column (vertical elements)
+  - column-reverse (reversed vertical elements)
+
+  Can be used with breakpoints - for example, a navbar
+
+flex-wrap:
+  To override the row so that elements go to the correct size and go on new lines
+
+  - wrap (forces elements onto new lines if they dont fit)
+  - wrap-reverse (forces them onto new lines but in reverse)
+

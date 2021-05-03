@@ -1,0 +1,12 @@
+Callback functions:
+  Used for: advanced array methods, browser events, AJAX requests & react development
+
+Callback Code along used with ForEach in the console
+
+findIndex Excercise
+
+The Stack and The Heap:
+  Invoke function -> details are saved to top of Stack
+  When the function returns -> details are popped of the Stack
+
+  The Heap is an area in memory where data is stored

@@ -1,0 +1,8 @@
+Transition Properties:
+  transition-duration
+  transition-property | Different properties that can be effected by duration
+  transition-timing-function | Ease-in, Ease, Ease-Out, Cubic Besier for custom
+  transition-delay
+
+Spent a large amount of time playing around with the properties to see how
+they could potentially be used

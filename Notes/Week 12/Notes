@@ -1,0 +1,14 @@
+Set timeout:
+  invokes a callback after a period of timeout
+
+Set interval:
+  invokes a callback every x ms, after x seconds
+
+The Event Loop:
+  Checks the queue when the stack is empty
+  If the stack is empty the front of the queue is placed in the stack
+
+The Queue:
+  An ordered list of functions waiting to be placed on the stack
+  Functions in the queue are processed on a first in, first out basis
+

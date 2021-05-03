@@ -1,0 +1,20 @@
+align-content:
+  Used with multiple rows
+  Same properties as align-items
+
+Navbar code along
+
+align-self:
+  Works on individual flex items
+  Can be used to make an exception to the align-items rule
+
+order:
+  Using CSS to change item order
+  Commonly used for responsive design
+  Like z-index but for the order of items
+
+
+flex-basis: 
+  - size (for example: 15px)
+  to set the initial ideal size
+

@@ -1,0 +1,22 @@
+Animation Properties:
+  Usual:
+    animation-name
+    animation-duration
+    animation-timing-function
+    animation-delay
+
+  Newer, Less Common:
+    animation-iteration-count
+    animation-fill-mode
+    animation-direction
+    animation-play-state
+
+Sun Animation Excercise:
+  Multiple animations,
+  Transform + Colour,
+  Experimentation to find the best coordinates
+
+Shorthand:
+  First value that can be parsed as time is assigned to animation-duration
+  Second value that can be parsed as time is assigned to animation-delay
+  All others can be put in a random order

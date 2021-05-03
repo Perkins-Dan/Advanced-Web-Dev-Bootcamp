@@ -1,0 +1,15 @@
+Object / Implicit Binding:
+  This is inside of a declared object
+
+Nested Objects:
+  This is bound to the closest nested object
+
+Call:
+  Shortening code to minimise duplicates
+
+Apply:
+  Almost identical to call - expect the parameters
+
+Bind:
+  Parameters similar to call but returns a function with 'this' bound already
+  

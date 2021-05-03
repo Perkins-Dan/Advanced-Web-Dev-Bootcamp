@@ -1,0 +1,6 @@
+Closures:
+  A function that makes use of variables defined in outer functions that have previously returned
+  Lots of examples and use cases
+
+Keyword "this":
+  How it is determined, GLOBAL, with functions

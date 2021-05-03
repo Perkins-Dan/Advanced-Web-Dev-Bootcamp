@@ -1,0 +1,11 @@
+Testing with Jasmine:
+  Testing framework to help test with JS environments
+  Friendly syntax that can be used for frontend or backend
+
+Keywords:
+  describe
+  it 
+  expect
+
+Spies:
+  mimic a function for Testing
